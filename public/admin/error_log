@@ -1,0 +1,53 @@
+[21-Jun-2014 10:02:40 America/New_York] PHP Fatal error:  Call to undefined method Input_Cleaner::gc() in /home/wwwfpvzk/public_html/yolong/admin/header.php on line 12
+[21-Jun-2014 10:04:20 America/New_York] PHP Warning:  include(include/amms.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 26
+[21-Jun-2014 10:04:20 America/New_York] PHP Warning:  include(include/amms.class.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 26
+[21-Jun-2014 10:04:20 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/amms.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 26
+[21-Jun-2014 10:04:20 America/New_York] PHP Fatal error:  Call to undefined method Database::num_rows() in /home/wwwfpvzk/public_html/yolong/includes/amms_class.php on line 46
+[21-Jun-2014 10:04:54 America/New_York] PHP Fatal error:  Call to undefined method Database::num_rows() in /home/wwwfpvzk/public_html/yolong/includes/amms_class.php on line 46
+[21-Jun-2014 12:02:32 America/New_York] PHP Fatal error:  Call to undefined method Database::num_rows() in /home/wwwfpvzk/public_html/yolong/includes/amms_class.php on line 92
+[21-Jun-2014 19:57:43 America/New_York] PHP Fatal error:  Call to a member function save_menu() on a non-object in /home/wwwfpvzk/public_html/yolong/admin/amms.processor.php on line 23
+[22-Jun-2014 08:31:59 America/New_York] PHP Fatal error:  Call to a member function save_menu() on a non-object in /home/wwwfpvzk/public_html/yolong/admin/amms.processor.php on line 23
+[22-Jun-2014 09:31:57 America/New_York] PHP Warning:  include(top-menu.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/wwwfpvzk/public_html/yolong/admin/index.php on line 13
+[22-Jun-2014 09:31:57 America/New_York] PHP Warning:  include(top-menu.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/wwwfpvzk/public_html/yolong/admin/index.php on line 13
+[22-Jun-2014 09:31:57 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'top-menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwwfpvzk/public_html/yolong/admin/index.php on line 13
+[22-Jun-2014 13:26:03 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/wwwfpvzk/public_html/yolong/includes/amms_class.php on line 66
+[22-Jun-2014 13:26:03 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 75
+[22-Jun-2014 13:33:26 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/wwwfpvzk/public_html/yolong/includes/amms_class.php on line 66
+[22-Jun-2014 13:33:26 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 75
+[22-Jun-2014 13:34:01 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/wwwfpvzk/public_html/yolong/includes/amms_class.php on line 66
+[22-Jun-2014 13:34:01 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 75
+[22-Jun-2014 19:37:20 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/wwwfpvzk/public_html/yolong/includes/amms_class.php on line 66
+[22-Jun-2014 19:37:20 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 75
+[22-Jun-2014 19:37:24 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/wwwfpvzk/public_html/yolong/includes/amms_class.php on line 66
+[22-Jun-2014 19:37:24 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 75
+[22-Jun-2014 19:38:43 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/wwwfpvzk/public_html/yolong/includes/amms_class.php on line 66
+[22-Jun-2014 19:38:43 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 75
+[22-Jun-2014 19:42:41 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/wwwfpvzk/public_html/yolong/includes/amms_class.php on line 66
+[22-Jun-2014 19:42:41 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 75
+[22-Jun-2014 19:43:12 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/wwwfpvzk/public_html/yolong/includes/amms_class.php on line 66
+[22-Jun-2014 19:43:12 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 75
+[22-Jun-2014 21:11:10 America/New_York] PHP Fatal error:  Call to a member function get_menus() on a non-object in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 32
+[22-Jun-2014 21:15:07 America/New_York] PHP Fatal error:  Call to a member function GetAll() on a non-object in /home/wwwfpvzk/public_html/yolong/includes/menu.php on line 241
+[22-Jun-2014 21:18:40 America/New_York] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/wwwfpvzk/public_html/yolong/includes/menu.php on line 241
+[22-Jun-2014 21:19:54 America/New_York] PHP Fatal error:  Call to a member function GetOne() on a non-object in /home/wwwfpvzk/public_html/yolong/includes/menu.php on line 333
+[22-Jun-2014 21:19:56 America/New_York] PHP Fatal error:  Call to a member function GetOne() on a non-object in /home/wwwfpvzk/public_html/yolong/includes/menu.php on line 333
+[22-Jun-2014 21:20:40 America/New_York] PHP Fatal error:  Call to a member function GetAssoc() on a non-object in /home/wwwfpvzk/public_html/yolong/includes/menu.php on line 316
+[22-Jun-2014 21:20:42 America/New_York] PHP Fatal error:  Call to a member function GetAssoc() on a non-object in /home/wwwfpvzk/public_html/yolong/includes/menu.php on line 316
+[22-Jun-2014 21:26:25 America/New_York] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, string given in /home/wwwfpvzk/public_html/yolong/includes/class_core.php on line 96
+[22-Jun-2014 21:26:25 America/New_York] PHP Fatal error:  Call to undefined method Menu::view() in /home/wwwfpvzk/public_html/yolong/includes/menu.php on line 32
+[22-Jun-2014 21:27:40 America/New_York] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, null given in /home/wwwfpvzk/public_html/yolong/includes/class_core.php on line 96
+[22-Jun-2014 21:27:40 America/New_York] PHP Fatal error:  Call to undefined method Menu::view() in /home/wwwfpvzk/public_html/yolong/includes/menu.php on line 32
+[22-Jun-2014 21:29:01 America/New_York] PHP Fatal error:  Call to undefined method Menu::view() in /home/wwwfpvzk/public_html/yolong/includes/menu.php on line 32
+[22-Jun-2014 21:46:09 America/New_York] PHP Fatal error:  Call to undefined method Menu_group::view() in /home/wwwfpvzk/public_html/yolong/includes/menu_group.php on line 26
+[23-Jun-2014 02:12:47 America/New_York] PHP Fatal error:  Call to undefined method Menu_group::view() in /home/wwwfpvzk/public_html/yolong/includes/menu_group.php on line 26
+[04-Jul-2014 04:46:51 America/New_York] PHP Fatal error:  Class 'Menu' not found in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 20
+[15-Jul-2014 10:19:56 America/New_York] PHP Fatal error:  Class 'Menu' not found in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 20
+[15-Jul-2014 11:10:06 America/New_York] PHP Fatal error:  Class 'Menu' not found in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 20
+[27-Jul-2014 10:27:30 America/New_York] PHP Fatal error:  Class 'Menu' not found in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 20
+[25-Aug-2014 05:48:55 America/New_York] PHP Fatal error:  Class 'Menu' not found in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 20
+[25-Aug-2014 06:24:22 America/New_York] PHP Fatal error:  Class 'Menu' not found in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 20
+[25-Aug-2014 06:24:29 America/New_York] PHP Fatal error:  Class 'Menu' not found in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 20
+[25-Aug-2014 06:25:14 America/New_York] PHP Fatal error:  Class 'Menu' not found in /home/wwwfpvzk/public_html/yolong/admin/menu.php on line 20
+[25-Aug-2014 06:57:38 America/New_York] PHP Warning:  include(profile.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/wwwfpvzk/public_html/yolong/admin/index.php on line 13
+[25-Aug-2014 06:57:38 America/New_York] PHP Warning:  include(profile.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/wwwfpvzk/public_html/yolong/admin/index.php on line 13
+[25-Aug-2014 06:57:38 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'profile.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwwfpvzk/public_html/yolong/admin/index.php on line 13

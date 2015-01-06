@@ -1,0 +1,96 @@
+.membership-page {
+	width: 100%;
+	background-size: cover;
+	position: relative;
+}
+
+.pricing {
+  -moz-transform: translate(-49%, -49.1%);
+  -ms-transform: translate(-49%, -49.1%);
+  -webkit-transform: translate(-49%, -49.1%);
+  transform: translate(-49%, -49.1%);
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 100%;
+  font-size: 0;
+  opacity: 1;
+  transition: opacity .2s ease;
+  font: 1em/1.5 'Droid Sans', sans-serif;
+}
+
+.price-option {
+  display: inline-block;
+  width: 140px;
+  vertical-align: middle;
+  margin-right: 0.3125em;
+  font-size: 16px;
+  opacity: 1;
+  transition: opacity .2s ease;
+}
+
+.price-option:last-child {
+  margin-right: 0;
+}
+
+.pricing:hover .price-option {
+  opacity: 0.6;
+}
+
+.pricing:hover .price-option:hover {
+  opacity: 1;
+}
+
+.price-option-detail {
+  padding: 2em 0;
+  background: white;
+  text-align: center;
+}
+
+.price-option .price-option-detail {
+  padding: 2.3em 0;
+}
+
+.price-option-cost,
+.price-option-type {
+  display: block;
+}
+
+.price-option-cost {
+  font-size: 1.5em;
+  color: #383838;
+}
+
+.price-option-type {
+	font-size: .7em;
+	text-transform: uppercase;
+	color: #909090;
+	padding: 3px 0;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.23);
+}
+
+.price-option-purchase {
+  position: relative;
+  display: block;
+  padding: .6em;
+  font-size: .875em;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.6);
+  border-radius: 0 0 .25em .25em;
+}
+
+.price-option-title {
+  position: relative;
+  display: block;
+  padding: .6em;
+  font-size: .875em;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.6);  
+  border-radius: .25em .25em 0 0;
+}
